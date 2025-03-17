@@ -1,0 +1,80 @@
+
+body {
+    width: 100%;
+    max-width: 400px;
+}
+.header{
+    width: 100px;
+    height: 60px;
+    background-color: black;
+    border: 2px solid black;
+    padding: 1px;
+
+}
+.divv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: black;
+    width: 250px;
+    height: 60px;
+}
+.divv2{
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    background-color: black;
+    width: 60px;
+    height: 60px;
+
+}
+.divpp{
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+}
+.duadradomayor{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 15px;
+    flex-direction: column;
+
+}
+.cuadrado{
+    background-color: black;
+    width: 350px;
+    height: 275px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 2px;
+
+}
+
+.img{
+    height: 60px;
+    width: 280px;
+}
+.cuadrado2{
+    align-items: center;
+    display: flex;
+    background-color: aqua;
+    width: 320px;
+    height: 150px;
+
+}
+.img{
+    height: 60px;
+    width: 280px;
+}
+.img2{
+    height: 60px;
+    width: 280px;
+}
+.a{
+    border: 1px solid black;
+    height: 40px;
+    width: 300px;
+    text-align: center;
+}
